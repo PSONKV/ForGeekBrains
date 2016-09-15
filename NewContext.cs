@@ -1,3 +1,5 @@
+// Git commands learnt: discard, revert, reset
+
 public class WorkContext : ApplicationDbContext
 {
 
