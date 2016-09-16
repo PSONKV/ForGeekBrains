@@ -13,4 +13,6 @@ public static event _show;
 static void BlowUp()
 {
 Console.WriteLine("Something has blown up!");
+Console.ReadKey();
 }
+
